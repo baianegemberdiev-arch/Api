@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'phone',
     'books',
+    'cars',
     'rest_framework'
 ]
 
